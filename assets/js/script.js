@@ -7,7 +7,6 @@ var week = [];
 var searchForm = document.querySelector('#search-form');
 var searchInput = document.querySelector('#search-input');
 var currentWeather = document.querySelector('#today');
-var historyContainer = document.querySelector('#history');
 var citySearch = document.querySelector('#searched-city');
 var currentTemp = document.querySelector('#temp');
 var currentWind = document.querySelector('#wind');
